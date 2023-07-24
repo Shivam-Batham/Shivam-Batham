@@ -1,5 +1,13 @@
 ### Hi there 👋 , I am Shivam.
-
+<h2>Skills</h2>
+<ul>
+  <li>Html</li>
+  <li>Css</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+</ul>
 <!--
 **Shivam-Batham/Shivam-Batham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
