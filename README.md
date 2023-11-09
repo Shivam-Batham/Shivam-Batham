@@ -1,6 +1,7 @@
-### Hi there 👋 , I am Shivam.
-
-<!-- <h2>Skills</h2>
+## Hi there 👋 , I am Shivam.
+#### I am self tought coder having good knowledge in JavaScript , C++ and Data structures, I am interested in Backend development. 
+#### 
+ <h2>Skills</h2>
 <ul>
   <li>Html</li>
   <li>Css</li>
@@ -8,7 +9,7 @@
   <li>React</li>
   <li>Node.js</li>
   <li>Express.js</li> 
-</ul> -->
+</ul>
 
 
 
