@@ -1,5 +1,5 @@
 ## Hi there 👋 , I am Shivam.
-#### I am self tought coder having exellence knowledge in JavaScript , C++ and Data structures, I am interested in Backend development. 
+#### I am self tought coder having exellence knowledge in JavaScript , C++ and Data structures, I am interested in FullStack/Backend development. 
 #### 
  <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
