@@ -13,6 +13,7 @@
   <li>Css</li>
   <li>JavaScript</li>
   <li>React</li>
+ <li>Redux</li>
   <li>Node.js</li>
   <li>Express.js</li> 
 </ul>
