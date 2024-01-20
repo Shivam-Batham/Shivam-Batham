@@ -16,6 +16,7 @@
  <li>Redux</li>
   <li>Node.js</li>
   <li>Express.js</li> 
+ <li>MongoDB</li>
 </ul>
 <P>Contact Me : +91 6390590908</P>
 <P>Email Me : shivambatham2610@gmail.com</P>
