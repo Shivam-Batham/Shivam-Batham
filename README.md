@@ -12,10 +12,10 @@
 <ul>
   <li>C++</li>
   <li>Html</li>
-  <li>Css</li>
+  <li>Tailwind Css</li>
   <li>JavaScript</li>
   <li>React</li>
- <li>Redux</li>
+ <li>Recoil</li>
   <li>Node.js</li>
   <li>Express.js</li> 
  <li>MongoDB</li>
