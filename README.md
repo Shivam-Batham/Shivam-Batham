@@ -25,5 +25,5 @@
   <li>MongoDB</li>
   <li>Docker</li>
 </ul>
-<P>Contact Me : +91 6390590908</P>
+
 <P>Email Me : shivambatham2610@gmail.com</P>
